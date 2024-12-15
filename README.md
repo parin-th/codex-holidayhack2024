@@ -1,4 +1,4 @@
-# Parin's Portfolio
+#  Parin's Portfolio
 
 Welcome to Parin's Portfolio! This website showcases my skills, projects, and experiences as a full-stack developer. It is designed to provide a comprehensive view of my capabilities and interests in the field of web development.
 
